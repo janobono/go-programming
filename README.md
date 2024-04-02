@@ -13,3 +13,4 @@
 - [07-constants](./ch02-variables/07-constants/README.md)
 - [08-computed-constants](./ch02-variables/08-computed-constants/README.md)
 - [09-formatting-strings](./ch02-variables/09-formatting-strings/README.md)
+- [10-conditionals](./ch02-variables/10-conditionals/README.md)
