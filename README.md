@@ -5,3 +5,4 @@
 ## ch02-variables
 
 - [01-basic-types](./ch02-variables/01-basic-types/README.md)
+- [02-short-declaration](./ch02-variables/02-short-declarations/README.md)
