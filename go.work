@@ -13,4 +13,5 @@ use (
 	./ch03-functions/01-intro
 	./ch03-functions/04-pass-by-value
 	./ch03-functions/05-ignoring-return-values
+	./ch03-functions/06-named-return-values
 )
