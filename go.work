@@ -3,4 +3,5 @@ go 1.22.0
 use (
 	./ch02-variables/01-basic-types
 	./ch02-variables/02-short-declarations
+	./ch02-variables/03-type-interference
 )
