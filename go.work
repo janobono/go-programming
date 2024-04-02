@@ -7,4 +7,5 @@ use (
 	./ch02-variables/04-same-line-declarations
 	./ch02-variables/05-type-sizes
 	./ch02-variables/07-constants
+	./ch02-variables/08-computed-constants
 )

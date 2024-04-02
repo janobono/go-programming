@@ -11,3 +11,4 @@
 - [05-type-sizes](./ch02-variables/05-type-sizes/README.md)
 - [06-which-type-to-use](./ch02-variables/06-which-type-to-use/README.md)
 - [07-constants](./ch02-variables/07-constants/README.md)
+- [08-computed-constants](./ch02-variables/08-computed-constants/README.md)
