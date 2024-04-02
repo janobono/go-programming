@@ -12,3 +12,4 @@
 - [06-which-type-to-use](./ch02-variables/06-which-type-to-use/README.md)
 - [07-constants](./ch02-variables/07-constants/README.md)
 - [08-computed-constants](./ch02-variables/08-computed-constants/README.md)
+- [09-formatting-strings](./ch02-variables/09-formatting-strings/README.md)

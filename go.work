@@ -8,4 +8,5 @@ use (
 	./ch02-variables/05-type-sizes
 	./ch02-variables/07-constants
 	./ch02-variables/08-computed-constants
+	./ch02-variables/09-formatting-strings
 )
