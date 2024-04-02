@@ -25,3 +25,7 @@
 - [05-ignoring-return-values](./ch03-functions/05-ignoring-return-values/README.md)
 - [06-named-return-values](./ch03-functions/06-named-return-values/README.md)
 - [07-early-returns](./ch03-functions/07-early-returns/README.md)
+
+## ch04-structs
+
+- [01-intro](./ch04-structs/01-intro/README.md)
