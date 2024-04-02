@@ -15,4 +15,5 @@ use (
 	./ch03-functions/05-ignoring-return-values
 	./ch03-functions/06-named-return-values
 	./ch04-structs/01-intro
+	./ch04-structs/02-nested-structs
 )

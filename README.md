@@ -29,3 +29,4 @@
 ## ch04-structs
 
 - [01-intro](./ch04-structs/01-intro/README.md)
+- [02-nested-structs](./ch04-structs/02-nested-structs/README.md)
