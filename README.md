@@ -21,3 +21,4 @@
 - [01-intro](./ch03-functions/01-intro/README.md)
 - [02-multiple-params](./ch03-functions/02-multiple-params/README.md)
 - [03-declaration-syntax](./ch03-functions/03-declaration-syntax/README.md)
+- [04-pass-by-value](./ch03-functions/04-pass-by-value/README.md)
