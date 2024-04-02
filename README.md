@@ -22,3 +22,4 @@
 - [02-multiple-params](./ch03-functions/02-multiple-params/README.md)
 - [03-declaration-syntax](./ch03-functions/03-declaration-syntax/README.md)
 - [04-pass-by-value](./ch03-functions/04-pass-by-value/README.md)
+- [05-ignoring-return-values](./ch03-functions/05-ignoring-return-values/README.md)

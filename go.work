@@ -12,4 +12,5 @@ use (
 	./ch02-variables/10-conditionals
 	./ch03-functions/01-intro
 	./ch03-functions/04-pass-by-value
+	./ch03-functions/05-ignoring-return-values
 )
