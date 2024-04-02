@@ -10,3 +10,4 @@
 - [04-same-line-declarations](./ch02-variables/04-same-line-declarations/README.md)
 - [05-type-sizes](./ch02-variables/05-type-sizes/README.md)
 - [06-which-type-to-use](./ch02-variables/06-which-type-to-use/README.md)
+- [07-constants](./ch02-variables/07-constants/README.md)
