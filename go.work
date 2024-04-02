@@ -17,4 +17,5 @@ use (
 	./ch04-structs/01-intro
 	./ch04-structs/02-nested-structs
 	./ch04-structs/04-embedded-structs
+	./ch04-structs/05-methods
 )
