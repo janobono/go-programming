@@ -8,5 +8,7 @@ func main() {
 	// create a new "accountAgeInt" here
 	// it should be the result of casting "accountAge" to an integer
 
+	accountAgeInt := int64(accountAge)
+
 	fmt.Println("Your account has existed for", accountAgeInt, "years")
 }
