@@ -31,3 +31,4 @@
 - [01-intro](./ch04-structs/01-intro/README.md)
 - [02-nested-structs](./ch04-structs/02-nested-structs/README.md)
 - [03-anonymous-structs](./ch04-structs/03-anonymous-structs/README.md)
+- [04-embedded-structs](./ch04-structs/04-embedded-structs/README.md)
