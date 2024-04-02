@@ -10,4 +10,5 @@ use (
 	./ch02-variables/08-computed-constants
 	./ch02-variables/09-formatting-strings
 	./ch02-variables/10-conditionals
+	./ch03-functions/01-intro
 )
