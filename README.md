@@ -4,4 +4,4 @@
 
 ## ch02-variables
 
-- [01-basic-types]()
+- [01-basic-types](./ch02-variables/01-basic-types/README.md)
