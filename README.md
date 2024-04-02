@@ -8,4 +8,5 @@
 - [02-short-declaration](./ch02-variables/02-short-declarations/README.md)
 - [03-type-interference](./ch02-variables/03-type-interference/README.md)
 - [04-same-line-declarations](./ch02-variables/04-same-line-declarations/README.md)
-- [04-type-sizes](./ch02-variables/05-type-sizes/README.md)
+- [05-type-sizes](./ch02-variables/05-type-sizes/README.md)
+- [06-which-type-to-use](./ch02-variables/06-which-type-to-use/README.md)
