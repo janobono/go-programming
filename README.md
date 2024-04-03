@@ -74,3 +74,7 @@
 - [08-2d-slices](./ch08-slices/08-2d-slices/README.md)
 - [09-slices-gotcha](./ch08-slices/09-slice-gotcha/README.md)
 - [11-range](./ch08-slices/11-range/README.md)
+
+## ch09-maps
+
+- [01-maps](./ch09-maps/01-maps/README.md)
