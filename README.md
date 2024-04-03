@@ -50,3 +50,4 @@
 
 - [01-errors](./ch06-errors/01-errors/README.md)
 - [02-formatting-strings](./ch06-errors/02-formatting-strings/README.md)
+- [03-custom-errors](./ch06-errors/03-custom-errors/README.md)
