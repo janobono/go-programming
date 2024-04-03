@@ -91,3 +91,4 @@
 - [03-currying](./ch10-advanced-functions/03-currying/README.md)
 - [04-defer](./ch10-advanced-functions/04-defer/README.md)
 - [05-closures](./ch10-advanced-functions/05-closures/README.md)
+- [06-closures-quiz](./ch10-advanced-functions/06-closures-quiz/README.md)
