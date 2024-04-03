@@ -90,3 +90,4 @@
 - [02-higher-order-quiz](./ch10-advanced-functions/02-higher-order-quiz/README.md)
 - [03-currying](./ch10-advanced-functions/03-currying/README.md)
 - [04-defer](./ch10-advanced-functions/04-defer/README.md)
+- [05-closures](./ch10-advanced-functions/05-closures/README.md)
