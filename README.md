@@ -87,3 +87,4 @@
 ## ch10-advanced-functions
 
 - [01-higher-order](./ch10-advanced-functions/01-higher-order/README.md)
+- [02-higher-order-quiz](./ch10-advanced-functions/02-higher-order-quiz/README.md)
