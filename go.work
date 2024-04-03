@@ -32,4 +32,5 @@ use (
 	./ch07-loops/03-while
 	./ch07-loops/04-loops-fizzbuzz
 	./ch07-loops/05-continue-and-break
+	./ch08-slices/01-arrays
 )

@@ -61,3 +61,7 @@
 - [03-while](./ch07-loops/03-while/README.md)
 - [04-loops-fizzbuzz](./ch07-loops/04-loops-fizzbuzz/README.md)
 - [05-continue-and-break](./ch07-loops/05-continue-and-break/README.md)
+
+## ch08-slices
+
+- [01-arrays](./ch08-slices/01-arrays/README.md)
