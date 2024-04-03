@@ -43,3 +43,4 @@
 - [05-multiple-interfaces](./ch05-interfaces/05-multiple-interfaces/README.md)
 - [06-naming-args](./ch05-interfaces/06-naming-args/README.md)
 - [07-type-assertion](./ch05-interfaces/07-type-assertion/README.md)
+- [08-type-switch](./ch05-interfaces/08-type-switch/README.md)

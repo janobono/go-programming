@@ -22,4 +22,5 @@ use (
 	./ch05-interfaces/02-implements
 	./ch05-interfaces/05-multiple-interfaces
 	./ch05-interfaces/07-type-assertion
+	./ch05-interfaces/08-type-switch
 )
