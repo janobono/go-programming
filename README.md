@@ -83,3 +83,7 @@
 - [04-maps-count](./ch09-maps/04-maps-count/README.md)
 - [05-maps-quiz](./ch09-maps/05-maps-quiz/README.md)
 - [06-nested-maps](./ch09-maps/06-nested-maps/README.md)
+
+## ch10-advanced-functions
+
+- [01-higher-order](./ch10-advanced-functions/01-higher-order/README.md)
