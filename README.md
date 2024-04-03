@@ -33,3 +33,7 @@
 - [03-anonymous-structs](./ch04-structs/03-anonymous-structs/README.md)
 - [04-embedded-structs](./ch04-structs/04-embedded-structs/README.md)
 - [05-methods](./ch04-structs/05-methods/README.md)
+
+## ch05-interfaces
+
+- [01-interfaces](./ch05-interfaces/01-interfaces/README.md)
