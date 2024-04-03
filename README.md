@@ -70,3 +70,4 @@
 - [04-slices-no-array](./ch08-slices/04-slices-no-array/README.md)
 - [05-slices-quiz](./ch08-slices/05-slices-quiz/README.md)
 - [06-variadic-functions](./ch08-slices/06-variadic-functions/README.md)
+- [07-append](./ch08-slices/07-append/README.md)
