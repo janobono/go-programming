@@ -19,6 +19,10 @@ func (c contractor) getName() string {
 	return c.name
 }
 
+func (c contractor) getSalary() int {
+	return c.hoursPerYear * c.hourlyPay
+}
+
 // ?
 
 // don't touch below this line
