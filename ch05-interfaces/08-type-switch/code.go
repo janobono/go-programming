@@ -6,6 +6,14 @@ import (
 
 func getExpenseReport(e expense) (string, float64) {
 	// ?
+	switch data := e.(type) {
+	case email:
+		return data.toAddress, data.cost()
+	case sms:
+		return data.toPhoneNumber, data.cost()
+	default:
+		return "", 0
+	}
 }
 
 // don't touch below this line
