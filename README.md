@@ -68,3 +68,5 @@
 - [02-slices](./ch08-slices/02-slices/README.md)
 - [03-slices-quiz](./ch08-slices/03-slices-quiz/README.md)
 - [04-slices-no-array](./ch08-slices/04-slices-no-array/README.md)
+- [05-slices-quiz](./ch08-slices/05-slices-quiz/README.md)
+- [06-variadic-functions](./ch08-slices/06-variadic-functions/README.md)
