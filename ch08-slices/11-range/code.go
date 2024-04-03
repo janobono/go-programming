@@ -4,6 +4,14 @@ import "fmt"
 
 func indexOfFirstBadWord(msg []string, badWords []string) int {
 	// ?
+	for index, message := range msg {
+		for _, word := range badWords {
+			if message == word {
+				return index
+			}
+		}
+	}
+	return -1
 }
 
 // don't touch below this line
