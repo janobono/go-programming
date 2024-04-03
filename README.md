@@ -65,3 +65,4 @@
 ## ch08-slices
 
 - [01-arrays](./ch08-slices/01-arrays/README.md)
+- [02-slices](./ch08-slices/02-slices/README.md)
