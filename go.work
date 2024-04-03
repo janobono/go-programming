@@ -38,4 +38,5 @@ use (
 	./ch08-slices/06-variadic-functions
 	./ch08-slices/07-append
 	./ch08-slices/08-2d-slices
+	./ch08-slices/11-range
 )
