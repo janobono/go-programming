@@ -4,6 +4,12 @@ import "fmt"
 
 func adder() func(int) int {
 	// ?
+	sum := 0
+
+	return func(delta int) int {
+		sum += delta
+		return sum
+	}
 }
 
 // don't touch below this line
