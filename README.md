@@ -72,3 +72,4 @@
 - [06-variadic-functions](./ch08-slices/06-variadic-functions/README.md)
 - [07-append](./ch08-slices/07-append/README.md)
 - [08-2d-slices](./ch08-slices/08-2d-slices/README.md)
+- [09-slices-gotcha](./ch08-slices/09-slice-gotcha/README.md)
