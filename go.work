@@ -34,4 +34,5 @@ use (
 	./ch07-loops/05-continue-and-break
 	./ch08-slices/01-arrays
 	./ch08-slices/02-slices
+	./ch08-slices/04-slices-no-array
 )

@@ -67,3 +67,4 @@
 - [01-arrays](./ch08-slices/01-arrays/README.md)
 - [02-slices](./ch08-slices/02-slices/README.md)
 - [03-slices-quiz](./ch08-slices/03-slices-quiz/README.md)
+- [04-slices-no-array](./ch08-slices/04-slices-no-array/README.md)
