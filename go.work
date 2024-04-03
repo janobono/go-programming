@@ -45,4 +45,5 @@ use (
 	./ch09-maps/06-nested-maps
 	./ch10-advanced-functions/01-higher-order
 	./ch10-advanced-functions/03-currying
+	./ch10-advanced-functions/04-defer
 )
