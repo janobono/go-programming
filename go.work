@@ -40,4 +40,5 @@ use (
 	./ch08-slices/08-2d-slices
 	./ch08-slices/11-range
 	./ch09-maps/01-maps
+	./ch09-maps/02-mutating-maps
 )
