@@ -9,15 +9,19 @@ func getNameCounts(names []string) map[rune]map[string]int {
 	result := make(map[rune]map[string]int)
 
 	for _, name := range names {
+		if len(name) == 0 {
+			continue
+		}
+
 		k1 := rune(name[0])
 
 		if _, ok := result[k1]; !ok {
 			result[k1] = make(map[string]int)
 		}
 
-		if _, ok := result[k1][name]; !ok {
-			result[k1][name] = 0
-		}
+		//if _, ok := result[k1][name]; !ok {
+		//	result[k1][name] = 0
+		//}
 
 		result[k1][name]++
 	}
