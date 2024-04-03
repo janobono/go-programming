@@ -41,3 +41,4 @@
 - [03-implicit](./ch05-interfaces/03-implicit/README.md)
 - [04-quiz](./ch05-interfaces/04-quiz/README.md)
 - [05-multiple-interfaces](./ch05-interfaces/05-multiple-interfaces/README.md)
+- [06-naming-args](./ch05-interfaces/06-naming-args/README.md)
