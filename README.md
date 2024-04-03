@@ -79,3 +79,4 @@
 
 - [01-maps](./ch09-maps/01-maps/README.md)
 - [02-mutating-maps](./ch09-maps/02-mutating-maps/README.md)
+- [03-map-keys](./ch09-maps/03-map-keys/README.md)
