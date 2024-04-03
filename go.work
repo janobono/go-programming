@@ -19,4 +19,5 @@ use (
 	./ch04-structs/04-embedded-structs
 	./ch04-structs/05-methods
 	./ch05-interfaces/01-interfaces
+	./ch05-interfaces/02-implements
 )
