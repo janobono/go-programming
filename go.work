@@ -37,4 +37,5 @@ use (
 	./ch08-slices/04-slices-no-array
 	./ch08-slices/06-variadic-functions
 	./ch08-slices/07-append
+	./ch08-slices/08-2d-slices
 )
