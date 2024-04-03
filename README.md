@@ -40,3 +40,4 @@
 - [02-implements](./ch05-interfaces/02-implements/README.md)
 - [03-implicit](./ch05-interfaces/03-implicit/README.md)
 - [04-quiz](./ch05-interfaces/04-quiz/README.md)
+- [05-multiple-interfaces](./ch05-interfaces/05-multiple-interfaces/README.md)
