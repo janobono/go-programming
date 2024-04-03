@@ -28,4 +28,5 @@ use (
 	./ch06-errors/03-custom-errors
 	./ch06-errors/05-errors-package
 	./ch07-loops/01-intro
+	./ch07-loops/02-omit-condition
 )

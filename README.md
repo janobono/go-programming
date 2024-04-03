@@ -57,3 +57,4 @@
 ## ch07-loops
 
 - [01-init](./ch07-loops/01-intro/README.md)
+- [02-omit-condition](./ch07-loops/02-omit-condition/README.md)
