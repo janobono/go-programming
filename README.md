@@ -38,3 +38,4 @@
 
 - [01-interfaces](./ch05-interfaces/01-interfaces/README.md)
 - [02-implements](./ch05-interfaces/02-implements/README.md)
+- [02-implicit](./ch05-interfaces/03-implicit/README.md)
