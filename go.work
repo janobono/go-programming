@@ -23,4 +23,5 @@ use (
 	./ch05-interfaces/05-multiple-interfaces
 	./ch05-interfaces/07-type-assertion
 	./ch05-interfaces/08-type-switch
+	./ch06-errors/01-errors
 )
