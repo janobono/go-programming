@@ -59,3 +59,4 @@
 - [01-init](./ch07-loops/01-intro/README.md)
 - [02-omit-condition](./ch07-loops/02-omit-condition/README.md)
 - [03-while](./ch07-loops/03-while/README.md)
+- [04-loops-fizzbuzz](./ch07-loops/04-loops-fizzbuzz/README.md)
