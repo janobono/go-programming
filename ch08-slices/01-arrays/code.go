@@ -10,6 +10,7 @@ const (
 
 func getMessageWithRetries() [3]string {
 	// ?
+	return [3]string{"click here to sign up", "pretty please click here", "we beg you to sign up"}
 }
 
 // don't touch below this line
