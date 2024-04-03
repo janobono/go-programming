@@ -29,4 +29,5 @@ use (
 	./ch06-errors/05-errors-package
 	./ch07-loops/01-intro
 	./ch07-loops/02-omit-condition
+	./ch07-loops/03-while
 )
