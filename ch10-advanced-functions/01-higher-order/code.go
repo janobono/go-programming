@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func getFormattedMessages(messages []string, formatter func) []string {
-	formattedMessages := []string{}
+func getFormattedMessages(messages []string, formatter func(message string) string) []string {
+	formattedMessages := make([]string, 0)
 	for _, message := range messages {
 		formattedMessages = append(formattedMessages, formatter(message))
 	}
