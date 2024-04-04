@@ -120,3 +120,7 @@
 - [10-custom-package](./ch12-local-development/10-custom-package/README.md)
 - [11-remote-package](./ch12-local-development/11-remote-package/README.md)
 - [12-library-packages](./ch12-local-development/12-library-packages/README.md)
+
+## ch13-channels
+
+- [01-intro](./ch13-channels/01-intro/README.md)
