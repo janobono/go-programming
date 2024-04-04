@@ -124,3 +124,4 @@
 ## ch13-channels
 
 - [01-intro](./ch13-channels/01-intro/README.md)
+- [02-channels-deadlock](./ch13-channels/02-channels-deadlock/README.md)

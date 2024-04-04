@@ -54,4 +54,5 @@ use (
 	./ch11-pointers/06-pointer-receiver-code
 	./ch12-local-development/01-intro
 	./ch13-channels/01-intro
+	./ch13-channels/02-channels-deadlock
 )
