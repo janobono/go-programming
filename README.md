@@ -145,3 +145,4 @@
 ## ch15-generics
 
 - [01-generics](./ch15-generics/01-generics/README.md)
+- [02-generics-why](./ch15-generics/02-generics-why/README.md)
