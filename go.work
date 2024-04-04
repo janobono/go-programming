@@ -55,4 +55,5 @@ use (
 	./ch12-local-development/01-intro
 	./ch13-channels/01-intro
 	./ch13-channels/02-channels-deadlock
+	./ch13-channels/03-channels-send
 )
