@@ -93,3 +93,7 @@
 - [05-closures](./ch10-advanced-functions/05-closures/README.md)
 - [06-closures-quiz](./ch10-advanced-functions/06-closures-quiz/README.md)
 - [07-anonymous-functions](./ch10-advanced-functions/07-anonymous-functions/README.md)
+
+## ch11-pointers
+
+- [01-pointers-intro](./ch11-pointers/01-pointers-intro/README.md)
