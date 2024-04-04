@@ -56,4 +56,5 @@ use (
 	./ch13-channels/01-intro
 	./ch13-channels/02-channels-deadlock
 	./ch13-channels/03-channels-send
+	./ch13-channels/04-buffered-channels
 )

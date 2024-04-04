@@ -126,3 +126,4 @@
 - [01-intro](./ch13-channels/01-intro/README.md)
 - [02-channels-deadlock](./ch13-channels/02-channels-deadlock/README.md)
 - [03-channels-send](./ch13-channels/03-channels-send/README.md)
+- [04-buffered-channels](./ch13-channels/04-buffered-channels/README.md)
