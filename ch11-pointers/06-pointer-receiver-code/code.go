@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func (e email) setMessage(newMessage string) {
+func (e *email) setMessage(newMessage string) {
 	e.message = newMessage
 }
 
@@ -27,7 +27,7 @@ func test(e *email, newMessage string) {
 	fmt.Println("==========================")
 }
 
-func (e email) print() {
+func (e *email) print() {
 	fmt.Println("message:", e.message)
 	fmt.Println("fromAddress:", e.fromAddress)
 	fmt.Println("toAddress:", e.toAddress)
