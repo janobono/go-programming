@@ -147,3 +147,4 @@
 - [01-generics](./ch15-generics/01-generics/README.md)
 - [02-generics-why](./ch15-generics/02-generics-why/README.md)
 - [03-constraints](./ch15-generics/03-constraints/README.md)
+- [04-interface-type-lists](./ch15-generics/04-interface-type-lists/README.md)
