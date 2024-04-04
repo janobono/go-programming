@@ -102,3 +102,21 @@
 - [04-nil-dereference](./ch11-pointers/04-nil-dereference/README.md)
 - [05-pointer-receiver](./ch11-pointers/05-pointer-receiver/README.md)
 - [06-pointer-receiver-code](./ch11-pointers/06-pointer-receiver-code/README.md)
+
+## ch12-local-development
+
+- [01-intro](./ch12-local-development/01-intro/README.md)
+- [02-package-naming](./ch12-local-development/02-package-naming/README.md)
+- [03-help](./ch12-local-development/03-help/README.md)
+    - [project-layout](https://github.com/golang-standards/project-layout)
+    - [go-clean-template](https://github.com/evrone/go-clean-template)
+    - [getting-started-with-go-project-structure](https://medium.com/evendyne/getting-started-with-go-project-structure-ab8814ded9c3)
+- [04-modules](./ch12-local-development/04-modules/README.md)
+- [05-gopath](./ch12-local-development/05-gopath/README.md)
+- [06-first-program](./ch12-local-development/06-first-program/README.md)
+- [07-go-run](./ch12-local-development/07-go-run/README.md)
+- [08-go-build](./ch12-local-development/08-go-build/README.md)
+- [09-go-install](./ch12-local-development/09-go-install/README.md)
+- [10-custom-package](./ch12-local-development/10-custom-package/README.md)
+- [11-remote-package](./ch12-local-development/11-remote-package/README.md)
+- [12-library-packages](./ch12-local-development/12-library-packages/README.md)

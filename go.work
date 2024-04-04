@@ -52,4 +52,5 @@ use (
 	./ch11-pointers/02-pointers-practice
 	./ch11-pointers/04-nil-dereference
 	./ch11-pointers/06-pointer-receiver-code
+	./ch12-local-development/01-intro
 )
