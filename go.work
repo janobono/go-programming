@@ -49,4 +49,5 @@ use (
 	./ch10-advanced-functions/05-closures
 	./ch10-advanced-functions/07-anonymous-functions
 	./ch11-pointers/01-pointers-intro
+	./ch11-pointers/02-pointers-practice
 )
