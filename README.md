@@ -98,3 +98,4 @@
 
 - [01-pointers-intro](./ch11-pointers/01-pointers-intro/README.md)
 - [02-pointers-practice](./ch11-pointers/02-pointers-practice/README.md)
+- [03-pointers-quiz](./ch11-pointers/03-pointers-quiz/README.md)
