@@ -1,6 +1,7 @@
 # go-programming
 
-[Go Programming - Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
+- [Go Programming - Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
+- [example project](./project/README.md)
 
 ## ch02-variables
 
@@ -153,7 +154,9 @@
 
 # Go Proverbs
 
-Similar to the [Zen of Python](https://peps.python.org/pep-0020/) that we covered in the "Learn Python" course, the [Go Proverbs](https://go-proverbs.github.io/) are a beautiful collection of wise words from Rob Pike, one of Go's creators.
+Similar to the [Zen of Python](https://peps.python.org/pep-0020/) that we covered in the "Learn Python" course,
+the [Go Proverbs](https://go-proverbs.github.io/) are a beautiful collection of wise words from Rob Pike, one of Go's
+creators.
 
 > Don't communicate by sharing memory, share memory by communicating.
 >
@@ -194,3 +197,4 @@ Similar to the [Zen of Python](https://peps.python.org/pep-0020/) that we covere
 > Don't panic.
 
 @[youtube](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+
