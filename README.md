@@ -129,3 +129,4 @@
 - [04-buffered-channels](./ch13-channels/04-buffered-channels/README.md)
 - [05-close](./ch13-channels/05-close/README.md)
 - [06-range](./ch13-channels/06-range/README.md)
+- [07-select](./ch13-channels/07-select/README.md)
