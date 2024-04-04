@@ -64,4 +64,5 @@ use (
 	./ch13-channels/10-channels-practice
 	./ch14-mutexes/01-mutex
 	./ch14-mutexes/04-rw-mutex
+	./ch15-generics/01-generics
 )

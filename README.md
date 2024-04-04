@@ -141,3 +141,7 @@
 - [03-mutex-review](./ch14-mutexes/03-mutex-review/README.md)
 - [04-rw-mutex](./ch14-mutexes/04-rw-mutex/README.md)
 - [05-rw-mutex-review](./ch14-mutexes/05-rw-mutex-review/README.md)
+
+## ch15-generics
+
+- [01-generics](./ch15-generics/01-generics/README.md)
