@@ -60,4 +60,5 @@ use (
 	./ch13-channels/05-close
 	./ch13-channels/06-range
 	./ch13-channels/07-select
+	./ch13-channels/08-select-default
 )
