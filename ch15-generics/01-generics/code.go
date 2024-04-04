@@ -2,8 +2,13 @@ package main
 
 import "fmt"
 
-func getLast[]() {
-
+func getLast[T any](data []T) T {
+	index := len(data) - 1
+	if index < 0 {
+		var emptyElement T
+		return emptyElement
+	}
+	return data[index]
 }
 
 // don't edit below this line
