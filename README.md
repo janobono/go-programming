@@ -131,3 +131,4 @@
 - [06-range](./ch13-channels/06-range/README.md)
 - [07-select](./ch13-channels/07-select/README.md)
 - [08-select-default](./ch13-channels/08-select-default/README.md)
+- [09-channel-quiz](./ch13-channels/09-channel-quiz/README.md)
