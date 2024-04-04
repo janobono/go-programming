@@ -101,3 +101,4 @@
 - [03-pointers-quiz](./ch11-pointers/03-pointers-quiz/README.md)
 - [04-nil-dereference](./ch11-pointers/04-nil-dereference/README.md)
 - [05-pointer-receiver](./ch11-pointers/05-pointer-receiver/README.md)
+- [06-pointer-receiver-code](./ch11-pointers/06-pointer-receiver-code/README.md)
