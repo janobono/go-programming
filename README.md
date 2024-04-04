@@ -140,3 +140,4 @@
 - [02-mutex-name](./ch14-mutexes/02-mutex-name/README.md)
 - [03-mutex-review](./ch14-mutexes/03-mutex-review/README.md)
 - [04-rw-mutex](./ch14-mutexes/04-rw-mutex/README.md)
+- [05-rw-mutex-review](./ch14-mutexes/05-rw-mutex-review/README.md)
