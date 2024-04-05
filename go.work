@@ -67,4 +67,5 @@ use (
 	./ch15-generics/01-generics
 	./ch15-generics/03-constraints
 	./ch15-generics/05-parametric-constraints
+	./project/02-boilerplate
 )

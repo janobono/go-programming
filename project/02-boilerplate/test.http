@@ -1,0 +1,11 @@
+### GET request with a header
+GET http://localhost:8080
+Accept: application/json
+
+### GET request with a header
+GET http://localhost:8080/v1/healthz
+Accept: application/json
+
+### GET request with a header
+GET http://localhost:8080/v1/err
+Accept: application/json
