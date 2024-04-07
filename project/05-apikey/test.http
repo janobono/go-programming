@@ -1,0 +1,24 @@
+### GET root
+GET http://localhost:8080
+Accept: application/json
+
+### GET healthz
+GET http://localhost:8080/v1/healthz
+Accept: application/json
+
+### GET err
+GET http://localhost:8080/v1/err
+Accept: application/json
+
+### POST create user
+POST http://localhost:8080/v1/users
+Content-Type: application/json
+
+{
+  "name": "John"
+}
+
+### GET user
+GET http://localhost:8080/v1/users
+Accept: application/json
+Authorization: ApiKey 29d03555c32beec29759efa2ece988f0b4efb08c6652f56a1e1c649e675cd33d
